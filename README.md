@@ -1,4 +1,4 @@
-#iPad kids, the plugin
+# iPad kids, the plugin
 
 https://youtu.be/OhMn6GPDHT4
 
