@@ -1,0 +1,4 @@
+name: ipadkids
+version: '${project.version}'
+main: net.civicraft.ipadkids.Ipadkids
+api-version: '1.20'
